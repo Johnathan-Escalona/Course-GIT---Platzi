@@ -1,2 +1,2 @@
-# Course-GIT---Platzi
-Course GIT - Platzi
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
